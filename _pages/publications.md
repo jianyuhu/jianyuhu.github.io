@@ -1,29 +1,39 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
+For an up-to-date citation record, see [Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en). The following list follows my CV (12 October 2026).
 
-## [Meachnie Learning and Hamiltonian Systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
+## Journal articles
 
+1. **J. Hu**, J.-P. Ortega, and D. Yin. **A global structure-preserving kernel method for the learning of Poisson systems.** *Journal of Nonlinear Science*, **35**(4):79 (2025).
+2. **J. Hu**, J.-P. Ortega, and D. Yin. **A structure-preserving kernel method for learning Hamiltonian systems.** *Mathematics of Computation*, **95**, 1719–1774 (2026). [DOI](https://doi.org/10.1090/mcom/4106)
+3. **J. Hu**, X. Chen, J. Duan, and D. Li. **Data-driven method to learn the most probable transition pathway and stochastic differential equations.** *Physica D*, **443**:133559 (2023).
+4. **J. Hu**, M. Dai, J. Duan, and X. Wang. **Nonparametric inference of stochastic differential equations based on the relative entropy rate.** *Mathematical Methods in the Applied Sciences*, **46**, 2986–2996 (2023).
+5. **J. Hu**, W. Wei, and J. Duan. **The most likely transition path for a class of distribution-dependent stochastic systems.** *Stochastics and Dynamics*, **23**(08):2340008 (2023).
+6. **J. Hu**, X. Chen, and J. Duan. **An Onsager–Machlup approach to the most probable transition pathway for a genetic regulatory network.** *Chaos*, **32**(4):041103 (2022).
+7. **J. Hu**, J. Chen, W. Wei, and J. Duan. **A data-driven approach for discovering the most probable transition pathway for a stochastic carbon cycle system.** *Chaos*, **32**(11):113140 (2022).
+8. **J. Hu**, M. Dai, J. Duan, J. Wen, and X. Wang. **Variational inference of the drift function for stochastic differential equations driven by Lévy processes.** *Chaos*, **32**(6):061103 (2022).
+9. **J. Hu** and J. Chen. **Transition pathways for a class of high dimensional stochastic dynamical systems with Lévy noise.** *Chaos*, **31**(6):063138 (2021).
+10. **J. Hu**, W. Wei, J. Chen, and J. Duan. **Most probable transitions from metastable to oscillatory regimes in a carbon cycle system.** *Chaos*, **31**(12):121102 (2021).
+11. **J. Hu**, S. Yuan, X. Liu, and J. Duan. **Slow manifolds for dynamical systems with non-Gaussian stable Lévy noise.** *Analysis and Applications*, **17**(03), 477–511 (2019).
 
-## [Stochastic Dynamical Systems](https://jianyuhu.github.io/jyhu.github.io/files/Stochastic_dynamical_systems.pdf)
-9. Wei, W. and **Hu, J.**. The most likely transition path for a class of distribution-dependent stochastic systems. *Stochastics and Dynamics*, 23(08), 2340008, 2023.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219493723400087)  [PDF](https://arxiv.org/abs/2111.06030)
-8. Dai, M., Duan, J., **Hu, J.** and Wang, X.. Nonparametric inference of stochastic differential equations based on the relative entropy rate. *Mathematical Methods in the Applied Sciences*, 46(2), 2986-2996, 2023. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8685)  [PDF](https://arxiv.org/abs/2112.04692)
-7. Chen, X., Duan, J., **Hu, J.** and Li, D.. Data-driven method to learn the most probable transition pathway and stochastic differential equation. *Physica D*, 443:133559, 2023.  [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167278922002639)  [PDF](https://arxiv.org/abs/2111.08944)
-6. Chen, J., **Hu, J.**, Wei, W. and Duan, J.. A data-driven approach for discovering the most probable transition pathway for a stochastic carbon cycle system. *Chaos*, 32(11), 2022.  [DOI](https://pubs.aip.org/aip/cha/article-abstract/32/11/113140/2836091/A-data-driven-approach-for-discovering-the-most?redirectedFrom=fulltext)  [PDF](https://arxiv.org/abs/2207.07252)
-5. Dai, M., Duan, J., **Hu, J.**, Wen, J. and Wang, X.. Variational inference of the drift function for stochastic differential equations driven by Lévy processes. *Chaos*, 32(6), 2022.  [DOI](https://pubs.aip.org/aip/cha/article/32/6/061103/2835746)  [PDF](https://arxiv.org/abs/2103.15080)
-4. **Hu, J.**, Chen, X. and Duan, J.. An Onsager–Machlup approach to the most probable transition pathway for a genetic regulatory network. *Chaos*, 32(4), 2022.  [DOI](https://pubs.aip.org/aip/cha/article-abstract/32/4/041103/2835610/An-Onsager-Machlup-approach-to-the-most-probable?redirectedFrom=fulltext)  [PDF](https://arxiv.org/abs/2203.00864)
-3. Wei, W., **Hu, J.**, Chen, J. and Duan, J.. Most probable transitions from metastable to oscillatory regimes in a carbon cycle system. *Chaos*, 31(12), 2021.  [DOI](https://pubs.aip.org/aip/cha/article-abstract/31/12/121102/282150/Most-probable-transitions-from-metastable-to?redirectedFrom=fulltext)  [PDF](https://arxiv.org/abs/2109.14905)
-2. **Hu, J.** and Chen, J.. Transition pathways for a class of high dimensional stochastic dynamical systems with Lévy noise. *Chaos*, 31(6), 2021.  [DOI](https://pubs.aip.org/aip/cha/article-abstract/31/6/063138/1059632/Transition-pathways-for-a-class-of-high?redirectedFrom=fulltext) [PDF](https://arxiv.org/abs/2103.07165)
-1. Yuan, S., **Hu, J.**, Liu, X. and Duan, J.. Slow manifolds for dynamical systems with non-Gaussian stable Levy noise. *Anal. Appl.*, 17(03), 477-511, 2019.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219530519500027)
+*Author names are summarized here using the CV's “with” information, not necessarily the published author order. Consult journal pages for definitive bibliographic author ordering.*
 
+## Conference paper
 
-****
-#  Preprints
-3. Chen, J., **Hu, J.**, Wang, Z., Duan, J., Gao T.. Correspondence Research of the Most Probable Transition Paths between a Stochastic Interacting Particle System and its Mean Field Limit System. arXiv:2404.07552, 2024.  [PDF](https://arxiv.org/abs/2404.07552)
-2. **Hu, J.**, Ortega, J.P. and Yin, D.. A structure-preserving kernel method for learning Hamiltonian systems. arXiv:2403.10070, 2024.  [PDF](https://arxiv.org/abs/2403.10070)
-1. **Hu, J.** and Duan, J.. Onsager-Machlup action functional for stochastic partial differential equations with Levy noise. arXiv:2011.09690, 2020. [PDF](https://arxiv.org/abs/2011.09690)
+1. **J. Hu**, D. Campolo, J.-P. Ortega, and D. Yin. **A kernel-based global method for the learning of elastic potentials on Lie groups.** *Geometric Science of Information (GSI 2025)*, pp. 93–102 (2025).
+
+## Preprints
+
+1. **J. Hu** and J.-P. Ortega. **Kernel learning of PDE solution operators.** [arXiv:2605.09643](https://arxiv.org/abs/2605.09643) (2026).
+2. **J. Hu**, Q. Huang, and Y. Huang. **A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics.** [arXiv:2508.02469](https://arxiv.org/abs/2508.02469) (2025).
+3. **J. Hu**, J.-P. Ortega, and D. Yin. **A kernel method for the learning of Wasserstein geometric flows.** [arXiv:2511.06655](https://arxiv.org/abs/2511.06655) (2025).
+
+## Manuscripts in preparation
+
+- **Learning Hamiltonian systems from trajectories** (with D. Martín de Diego, J.-P. Ortega, and M. Vaquero), 2026.
+- **Learning robotic dynamics on Lie groups** (with D. Campolo and J.-P. Ortega), 2026.

@@ -7,36 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Fellow at the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), Nanyang Technological University, where I work with Prof. [Juan-Pablo Ortega](https://juan-pablo-ortega.com/). I received my Ph.D. degree in Mathematics from the [School of Mathematics and Statistics](https://maths.hust.edu.cn/), Huazhong University of Science and Technology in June 2022, and my advisor was Prof. [Jinqiao Duan](https://jqduan.github.io/).
+I am a mathematician working on dynamical systems, probability, geometry, and scientific machine learning. I received my Ph.D. in Statistics from Huazhong University of Science and Technology in June 2022, advised by Prof. [Jinqiao Duan](https://jqduan.github.io/). My postdoctoral research at Nanyang Technological University has been carried out with Prof. [Juan-Pablo Ortega](https://juan-pablo-ortega.com/).
 
-My research lies at the intersection of dynamical systems, geometry, probability, and scientific machine learning. My research interests include:
-
-1. Metastability, rare events, and most probable transition pathways in stochastic dynamical systems;
-2. Mathematical foundations of scientific machine learning, including structure-preserving learning, geometric learning, and data-driven discovery of dynamical systems.
+My research focuses on the mathematical foundations of structure-preserving kernel methods, data-driven dynamical systems, and stochastic dynamics. I am particularly interested in learning theory, PDE solution operators, and the geometry of probabilistic evolution.
 
 <section class="topics-sketch">
- <h1>Topics sketch</h1>
+<h1>Research topics</h1>
+<details open>
+<summary>Structure-Preserving Learning of Dynamical Systems</summary>
+<div class="topic-content">
+<p>I develop kernel-based methods for recovering dynamical systems from observations while respecting their mathematical structure.</p>
+<ul>
+<li><strong>Hamiltonian and Poisson systems:</strong> Learning energy functions and geometric dynamics from data.</li>
+<li><strong>Structure-preserving kernel methods:</strong> RKHS formulations with rigorous approximation and convergence guarantees.</li>
+<li><strong>Trajectory observations:</strong> Investigating numerical discretization, reconstruction bias, and the role of sampling geometry.</li>
+</ul>
+</div>
+</details>
 
- <details>
-    <summary>High dimensional sampling</summary>
-    <div class="topic-content">
-      <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
-      <ul>
-        <li><strong>Error/Bias in high dimensions:</strong> Motivated by molecular dynamics applications, we study dimension-dependent bias and sampling efficiency.</li>
-        <li><strong>Improved dimensional scaling:</strong> We develop sampling methods with better scaling properties for high-dimensional problems.</li>
-      </ul>
-    </div>
-  </details>
+<details>
+<summary>Kernel Methods and PDE Operator Learning</summary>
+<div class="topic-content">
+<p>I study principled approaches to learning solution operators of partial differential equations from differential constraints.</p>
+<ul>
+<li><strong>PDE solution operators:</strong> Kernel constructions informed by the governing differential operator.</li>
+<li><strong>Statistical guarantees:</strong> Approximation, convergence, and generalization analysis.</li>
+<li><strong>Observation geometry:</strong> How differential operators determine identifiability and learning complexity.</li>
+</ul>
+</div>
+</details>
 
- <details>
-    <summary>High dimensional sampling</summary>
-    <div class="topic-content">
-      <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
-      <ul>
-        <li><strong>Error/Bias in high dimensions:</strong> Motivated by molecular dynamics applications, we study dimension-dependent bias and sampling efficiency.</li>
-        <li><strong>Improved dimensional scaling:</strong> We develop sampling methods with better scaling properties for high-dimensional problems.</li>
-      </ul>
-    </div>
-  </details>
-  
+<details>
+<summary>Stochastic Dynamical Systems and Rare Events</summary>
+<div class="topic-content">
+<p>I investigate stochastic transitions, metastability, and noise-induced dynamical phenomena.</p>
+<ul>
+<li><strong>Rare-event pathways:</strong> Onsager–Machlup action functionals and large deviation methods.</li>
+<li><strong>Gaussian and Lévy noise:</strong> Transition phenomena under continuous and jump perturbations.</li>
+<li><strong>Stochastic inverse problems:</strong> Inference of dynamics from stochastic observations.</li>
+</ul>
+</div>
+</details>
+
+<details>
+<summary>Geometry and Learning on Probability Spaces</summary>
+<div class="topic-content">
+<p>I explore the interplay between probability, geometry, and dynamical evolution of measures.</p>
+<ul>
+<li><strong>Wasserstein geometry:</strong> Gradient and Hamiltonian dynamics on spaces of probability distributions.</li>
+<li><strong>Inverse problems on measures:</strong> Recovering potentials and interaction laws from density evolution.</li>
+<li><strong>Optimal transport and Schrödinger bridges:</strong> Geometric and probabilistic formulations of evolution and transition.</li>
+</ul>
+</div>
+</details>
 </section>
+
+For details, see [Research](/research/), [Publications](/publications/), and [Talks](/talks/).
