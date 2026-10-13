@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematician working on dynamical systems, probability, geometry, and scientific machine learning. I received my Ph.D. in Statistics from Huazhong University of Science and Technology in June 2022, advised by Prof. [Jinqiao Duan](https://jqduan.github.io/). My postdoctoral research at Nanyang Technological University has been carried out with Prof. [Juan-Pablo Ortega](https://juan-pablo-ortega.com/).
+I am a postdoctoral research fellow working on dynamical systems, probability, geometry, and scientific machine learning. I received my Ph.D. in Statistics from Huazhong University of Science and Technology in June 2022, advised by Prof. [Jinqiao Duan](https://jqduan.github.io/). My postdoctoral research at Nanyang Technological University has been carried out with Prof. [Juan-Pablo Ortega](https://juan-pablo-ortega.com/).
 
 My research focuses on the mathematical foundations of structure-preserving kernel methods, data-driven dynamical systems, and stochastic dynamics. I am particularly interested in learning theory, PDE solution operators, and the geometry of probabilistic evolution.
 
 <section class="topics-sketch">
 <h1>Research topics</h1>
-<details open>
+<details>
 <summary>Structure-Preserving Learning of Dynamical Systems</summary>
 <div class="topic-content">
 <p>I develop kernel-based methods for recovering dynamical systems from observations while respecting their mathematical structure.</p>
