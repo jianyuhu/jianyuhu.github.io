@@ -62,4 +62,4 @@ My research focuses on the mathematical foundations of structure-preserving kern
 </details>
 </section>
 
-For details, see [Research](/research/), [Publications](/publications/), and [Talks](/talks/).
+<!-- For details, see [Research](/research/), [Publications](/publications/), and [Talks](/talks/). -->
