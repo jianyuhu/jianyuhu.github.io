@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For an up-to-date citation record, see [Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en). The following list follows my CV (12 October 2026).
+For an up-to-date citation record, see [Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en). 
 
 ## Journal articles
 
