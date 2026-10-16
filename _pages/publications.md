@@ -10,16 +10,27 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 ## Journal articles
 
 1. **J. Hu**, J.-P. Ortega, and D. Yin. **A global structure-preserving kernel method for the learning of Poisson systems.** *Journal of Nonlinear Science*, **35**(4):79 (2025).
-2. **J. Hu**, J.-P. Ortega, and D. Yin. **A structure-preserving kernel method for learning Hamiltonian systems.** *Mathematics of Computation*, **95**, 1719–1774 (2026). [DOI](https://doi.org/10.1090/mcom/4106)
-3. **J. Hu**, X. Chen, J. Duan, and D. Li. **Data-driven method to learn the most probable transition pathway and stochastic differential equations.** *Physica D*, **443**:133559 (2023).
-4. **J. Hu**, M. Dai, J. Duan, and X. Wang. **Nonparametric inference of stochastic differential equations based on the relative entropy rate.** *Mathematical Methods in the Applied Sciences*, **46**, 2986–2996 (2023).
-5. **J. Hu**, W. Wei, and J. Duan. **The most likely transition path for a class of distribution-dependent stochastic systems.** *Stochastics and Dynamics*, **23**(08):2340008 (2023).
-6. **J. Hu**, X. Chen, and J. Duan. **An Onsager–Machlup approach to the most probable transition pathway for a genetic regulatory network.** *Chaos*, **32**(4):041103 (2022).
-7. **J. Hu**, J. Chen, W. Wei, and J. Duan. **A data-driven approach for discovering the most probable transition pathway for a stochastic carbon cycle system.** *Chaos*, **32**(11):113140 (2022).
-8. **J. Hu**, M. Dai, J. Duan, J. Wen, and X. Wang. **Variational inference of the drift function for stochastic differential equations driven by Lévy processes.** *Chaos*, **32**(6):061103 (2022).
-9. **J. Hu** and J. Chen. **Transition pathways for a class of high dimensional stochastic dynamical systems with Lévy noise.** *Chaos*, **31**(6):063138 (2021).
-10. **J. Hu**, W. Wei, J. Chen, and J. Duan. **Most probable transitions from metastable to oscillatory regimes in a carbon cycle system.** *Chaos*, **31**(12):121102 (2021).
-11. **J. Hu**, S. Yuan, X. Liu, and J. Duan. **Slow manifolds for dynamical systems with non-Gaussian stable Lévy noise.** *Analysis and Applications*, **17**(03), 477–511 (2019).
+
+1. **J. Hu**, J.-P. Ortega, and D. Yin. **A structure-preserving kernel method for learning Hamiltonian systems.** *Mathematics of Computation*, **95**, 1719–1774 (2026). [DOI](https://doi.org/10.1090/mcom/4106)
+
+1. **J. Hu**, X. Chen, J. Duan, and D. Li. **Data-driven method to learn the most probable transition pathway and stochastic differential equations.** *Physica D*, **443**:133559 (2023).
+
+1. **J. Hu**, M. Dai, J. Duan, and X. Wang. **Nonparametric inference of stochastic differential equations based on the relative entropy rate.** *Mathematical Methods in the Applied Sciences*, **46**, 2986–2996 (2023).
+
+1. **J. Hu**, W. Wei, and J. Duan. **The most likely transition path for a class of distribution-dependent stochastic systems.** *Stochastics and Dynamics*, **23**(08):2340008 (2023).
+
+1. **J. Hu**, X. Chen, and J. Duan. **An Onsager–Machlup approach to the most probable transition pathway for a genetic regulatory network.** *Chaos*, **32**(4):041103 (2022).
+
+1. **J. Hu**, J. Chen, W. Wei, and J. Duan. **A data-driven approach for discovering the most probable transition pathway for a stochastic carbon cycle system.** *Chaos*, **32**(11):113140 (2022).
+
+1. **J. Hu**, M. Dai, J. Duan, J. Wen, and X. Wang. **Variational inference of the drift function for stochastic differential equations driven by Lévy processes.** *Chaos*, **32**(6):061103 (2022).
+
+1. **J. Hu** and J. Chen. **Transition pathways for a class of high dimensional stochastic dynamical systems with Lévy noise.** *Chaos*, **31**(6):063138 (2021).
+
+1. **J. Hu**, W. Wei, J. Chen, and J. Duan. **Most probable transitions from metastable to oscillatory regimes in a carbon cycle system.** *Chaos*, **31**(12):121102 (2021).
+
+1. **J. Hu**, S. Yuan, X. Liu, and J. Duan. **Slow manifolds for dynamical systems with non-Gaussian stable Lévy noise.** *Analysis and Applications*, **17**(03), 477–511 (2019).
+
 
 *Author names are summarized here using the CV's “with” information, not necessarily the published author order. Consult journal pages for definitive bibliographic author ordering.*
 
