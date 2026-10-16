@@ -75,11 +75,3 @@
 .topics-sketch .topic-content li { margin-bottom: .6rem; }
 
 
-/* Wider academic layout */
-@media (min-width: 1024px) {
-  #main { max-width: 1600px; }
-  .page, .archive {
-    @include span(10 of 12 last);
-    padding-right: 0;
-  }
-}
