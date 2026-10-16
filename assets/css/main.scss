@@ -73,3 +73,12 @@
 .topics-sketch .topic-content p { margin: 0 0 .8rem; }
 .topics-sketch .topic-content ul { margin: .8rem 0 0 1.2rem; }
 .topics-sketch .topic-content li { margin-bottom: .6rem; }
+
+/* Wider publications content */
+@media (min-width: 1024px) {
+  #main {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
