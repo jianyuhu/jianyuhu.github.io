@@ -9,9 +9,9 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 ## Journal articles
 
-1. **J. Hu**, J.-P. Ortega, and D. Yin. **A global structure-preserving kernel method for the learning of Poisson systems.** *Journal of Nonlinear Science*, **35**(4):79 (2025).
-
 1. **J. Hu**, J.-P. Ortega, and D. Yin. **A structure-preserving kernel method for learning Hamiltonian systems.** *Mathematics of Computation*, **95**, 1719–1774 (2026). [DOI](https://doi.org/10.1090/mcom/4106)
+
+1. **J. Hu**, J.-P. Ortega, and D. Yin. **A global structure-preserving kernel method for the learning of Poisson systems.** *Journal of Nonlinear Science*, **35**(4):79 (2025).
 
 1. **J. Hu**, X. Chen, J. Duan, and D. Li. **Data-driven method to learn the most probable transition pathway and stochastic differential equations.** *Physica D*, **443**:133559 (2023).
 
