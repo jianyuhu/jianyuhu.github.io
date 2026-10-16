@@ -10,16 +10,16 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 ## Preprints
 
 1. **Learning Hamiltonians from Trajectory Data with Kernel Methods.**  
-   J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. [arXiv](https://arxiv.org/abs/2610.17835) (2026).
+   J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. [arXiv](https://arxiv.org/abs/2610.17835)
 
 1. **Kernel learning of PDE solution operators.**  
-   J. Hu and Juan-Pablo Ortega. [arXiv](https://arxiv.org/abs/2605.09643) (2026).
+   J. Hu and Juan-Pablo Ortega. [arXiv](https://arxiv.org/abs/2605.09643)
 
 1. **A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics.**  
-   J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. [arXiv](https://arxiv.org/abs/2508.02469) (2025).
+   J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. [arXiv](https://arxiv.org/abs/2508.02469)
 
 1. **A kernel method for the learning of Wasserstein geometric flows.**  
-   J. Hu, Juan-Pablo Ortega, and Daiying Yin. [arXiv](https://arxiv.org/abs/2511.06655) (2025).
+   J. Hu, Juan-Pablo Ortega, and Daiying Yin. [arXiv](https://arxiv.org/abs/2511.06655)
 
 ## Journal articles
 
@@ -30,7 +30,7 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
    J. Hu, Juan-Pablo Ortega, and Daiying Yin. *Journal of Nonlinear Science*, **35**(4):79 (2025). [DOI](https://doi.org/10.1007/s00332-025-10176-1)
 
 1. **Data-driven method to learn the most probable transition pathway and stochastic differential equations.**  
-   Xiaoli Chen, Jinqiao Duan, J. Hu, and Dongfang Li. *Physica D*, **443**:133559 (2023). [DOI](https://doi.org/10.1016/j.physd.2022.133559)
+   Xiaoli Chen, Jinqiao Duan, J. Hu, and Dongfang Li. *Physica D*, **443**:133559 (2023). [DOI](https://doi.org/10.1016/j.physd.2022.133559) 
 
 1. **Nonparametric inference of stochastic differential equations based on the relative entropy rate.**  
    Min Dai, Jinqiao Duan, J. Hu, and Xiangjun Wang. *Mathematical Methods in the Applied Sciences*, **46**, 2986–2996 (2023). [DOI](https://doi.org/10.1002/mma.8685)
