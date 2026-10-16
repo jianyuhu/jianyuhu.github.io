@@ -7,6 +7,25 @@ author_profile: true
 
 For an up-to-date citation record, see [Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
 
+## Preprints
+
+1. **Learning Hamiltonians from Trajectory Data with Kernel Methods.**  
+   Jianyu Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. [arXiv:2610.17835](https://arxiv.org/abs/2610.17835) (2026).
+
+1. **Kernel learning of PDE solution operators.**  
+   Jianyu Hu and Juan-Pablo Ortega. [arXiv:2605.09643](https://arxiv.org/abs/2605.09643) (2026).
+
+1. **A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics.**  
+   Jianyu Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. [arXiv:2508.02469](https://arxiv.org/abs/2508.02469) (2025).
+
+1. **A kernel method for the learning of Wasserstein geometric flows.**  
+   Jianyu Hu, Juan-Pablo Ortega, and Daiying Yin. [arXiv:2511.06655](https://arxiv.org/abs/2511.06655) (2025).
+
+## Manuscripts in preparation
+
+1. **Learning robotic dynamics on Lie groups.**  
+   Jianyu Hu (with Domenico Campolo and Juan-Pablo Ortega). Manuscript in preparation (2026).
+
 ## Journal articles
 
 1. **A structure-preserving kernel method for learning Hamiltonian systems.**  
@@ -46,22 +65,3 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 1. **A kernel-based global method for the learning of elastic potentials on Lie groups.**  
    Domenico Campolo, Jianyu Hu, Juan-Pablo Ortega, and Daiying Yin. *Geometric Science of Information (GSI 2025)*, pp. 93–102 (2025).
-
-## Preprints
-
-1. **Kernel learning of PDE solution operators.**  
-   Jianyu Hu and Juan-Pablo Ortega. [arXiv:2605.09643](https://arxiv.org/abs/2605.09643) (2026).
-
-1. **A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics.**  
-   Jianyu Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. [arXiv:2508.02469](https://arxiv.org/abs/2508.02469) (2025).
-
-1. **A kernel method for the learning of Wasserstein geometric flows.**  
-   Jianyu Hu, Juan-Pablo Ortega, and Daiying Yin. [arXiv:2511.06655](https://arxiv.org/abs/2511.06655) (2025).
-
-## Manuscripts in preparation
-
-1. **Learning Hamiltonian systems from trajectories.**  
-   Jianyu Hu (with David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero). Manuscript in preparation (2026).
-
-1. **Learning robotic dynamics on Lie groups.**  
-   Jianyu Hu (with Domenico Campolo and Juan-Pablo Ortega). Manuscript in preparation (2026).
