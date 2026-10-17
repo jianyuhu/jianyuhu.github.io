@@ -46,4 +46,4 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 ## Conference paper
 
-1. Domenico Campolo, J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel-based global method for the learning of elastic potentials on Lie groups. *Geometric Science of Information (GSI 2025)*, pp. 93–102 (2025).
+1. Domenico Campolo, J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel-based global method for the learning of elastic potentials on Lie groups. *Geometric Science of Information (GSI 2025)*, pp. 93–102 (2025). [DOI](https://link.springer.com/chapter/10.1007/978-3-032-03924-8_10)
