@@ -9,17 +9,17 @@ redirect_from:
 
 [**Download my full CV (PDF)**](/files/Jianyu_Hu_CV_2026-10-12.pdf)
 
-## Research experience
+# Research experience
 
 - **Research Fellow**, Division of Mathematical Sciences, Nanyang Technological University, Singapore (December 2022–present, as stated in CV). Advisor: Prof. Juan-Pablo Ortega.
 
-## Education
+# Education
 
 - **Ph.D.**, Statistics, Huazhong University of Science and Technology, Wuhan, China (September 2017–June 2022). Advisor: Prof. Jinqiao Duan.
 - **B.S.**, Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, China (September 2012–June 2016).
 
 
-## Professional Service
+# Professional Service
 
 Reviewer for the following journals:
 
@@ -39,7 +39,7 @@ Reviewer for the following journals:
 
 </div>
 
-## Blogs I Follow
+# Blogs I Follow
 
 **Mathematics & Machine Learning:**  
 [Terence Tao](https://terrytao.wordpress.com/) ·
