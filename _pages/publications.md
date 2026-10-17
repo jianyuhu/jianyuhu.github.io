@@ -9,7 +9,7 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 ## Preprints
 
-1. J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. Learning Hamiltonians from Trajectory Data with Kernel Methods. [ArXiv](https://arxiv.org/abs/2610.17835)
+1. J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. Learning Hamiltonians from trajectory data with kernel methods. [ArXiv](https://arxiv.org/abs/2610.17835)
 
 1. J. Hu and Juan-Pablo Ortega. Kernel learning of PDE solution operators. [ArXiv](https://arxiv.org/abs/2605.09643)
 
