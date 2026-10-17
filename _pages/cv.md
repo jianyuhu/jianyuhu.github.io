@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[**Download my full CV (PDF)**](/files/Jianyu_Hu_CV_2026-10-12.pdf)
-
 # Research experience
 
 - **Research Fellow**, Division of Mathematical Sciences, Nanyang Technological University, Singapore (December 2022–present, as stated in CV). Advisor: Prof. Juan-Pablo Ortega.
