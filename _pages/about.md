@@ -62,4 +62,17 @@ My research focuses on the mathematical foundations of structure-preserving kern
 </details>
 </section>
 
+<h2>Professional Service</h2>
+
+<p>Referee for the following journals:</p>
+
+<div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0.6rem 1.5rem; margin-bottom:1.5rem;">
+  <div><a href="https://www.jmlr.org/">Journal of Machine Learning Research</a></div>
+  <div><a href="https://www.siam.org/publications/siam-journals/siam-journal-on-applied-dynamical-systems/">SIAM Journal on Applied Dynamical Systems</a></div>
+  <div><a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks</a></div>
+  <div><a href="https://www.sciencedirect.com/journal/applied-mathematics-letters">Applied Mathematics Letters</a></div>
+  <div><a href="https://pubs.aip.org/cha">Chaos</a></div>
+  <div><a href="https://www.sciencedirect.com/journal/chaos-solitons-and-fractals">Chaos, Solitons & Fractals</a></div>
+</div>
+
 <!-- For details, see [Research](/research/), [Publications](/publications/), and [Talks](/talks/). -->
