@@ -7,7 +7,7 @@ author_profile: true
 
 For an up-to-date citation record, see [Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
 
-## Preprints
+# Preprints
 
 1. J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. Learning Hamiltonians from trajectory data with kernel methods. [ArXiv](https://arxiv.org/abs/2610.17835)
 
@@ -17,7 +17,7 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 1. J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics. [ArXiv](https://arxiv.org/abs/2508.02469)
 
-## Journal articles
+# Journal articles
 
 1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A structure-preserving kernel method for learning Hamiltonian systems. *Mathematics of Computation*, **95**, 1719–1774 (2026). [ArXiv](https://arxiv.org/abs/2403.10070) [DOI](https://doi.org/10.1090/mcom/4106) 
 
@@ -44,6 +44,6 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
   
 1. Shenglan Yuan, J. Hu, Xianming Liu, and Jinqiao Duan. Slow manifolds for dynamical systems with non-Gaussian stable Lévy noise. *Analysis and Applications*, **17**(03), 477–511 (2019). [DOI](https://doi.org/10.1142/S0219530519500027)
 
-## Conference paper
+# Conference paper
 
 1. Domenico Campolo, J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel-based global method for the learning of elastic potentials on Lie groups. *Geometric Science of Information (GSI 2025)*, pp. 93–102 (2025). [ArXiv](https://www.researchgate.net/profile/Juan-Pablo-Ortega-2/publication/392391996_A_kernel-based_global_method_for_the_learning_of_elastic_potentials_on_Lie_groups/links/68401ba56a754f72b5906757/A-kernel-based-global-method-for-the-learning-of-elastic-potentials-on-Lie-groups.pdf) [DOI](https://link.springer.com/chapter/10.1007/978-3-032-03924-8_10)
