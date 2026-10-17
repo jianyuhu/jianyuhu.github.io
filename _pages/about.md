@@ -73,4 +73,9 @@ My research focuses on the mathematical foundations of structure-preserving kern
   <div><a href="https://www.sciencedirect.com/journal/chaos-solitons-and-fractals">Chaos, Solitons & Fractals</a></div>
 </div>
 
+## Blogs I Follow
+
+[Terence Tao](https://terrytao.wordpress.com/) ·
+[Francis Bach](https://francisbach.com/)
+
 <!-- For details, see [Research](/research/), [Publications](/publications/), and [Talks](/talks/). -->
