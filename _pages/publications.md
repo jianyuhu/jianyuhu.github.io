@@ -13,9 +13,9 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 1. J. Hu and Juan-Pablo Ortega. Kernel learning of PDE solution operators. [ArXiv](https://arxiv.org/abs/2605.09643)
 
-1. J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics. [ArXiv](https://arxiv.org/abs/2508.02469)
-
 1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel method for the learning of Wasserstein geometric flows. [ArXiv](https://arxiv.org/abs/2511.06655)
+
+1. J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics. [ArXiv](https://arxiv.org/abs/2508.02469)
 
 ## Journal articles
 
