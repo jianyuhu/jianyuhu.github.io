@@ -22,29 +22,23 @@ Geometry, dynamical systems, statistics, and machine learning, with a focus on l
 - **Ph.D.**, Statistics, Huazhong University of Science and Technology, Wuhan, China (September 2017–June 2022). Advisor: Prof. Jinqiao Duan.
 - **B.S.**, Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, China (September 2012–June 2016).
 
-## Research outputs
 
-- 11 journal papers; 1 conference paper.
-- 3 public preprints; 2 manuscripts in preparation.
+## Professional Service
 
-See [Publications](/publications/) for citations and links.
+Reviewer for the following journals:
 
-## Teaching
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 2rem; row-gap: 0.7rem; margin: 1rem 0 1.5rem;">
 
-- Teaching Assistant, **Mathematical Analysis**, Huazhong University of Science and Technology (Spring and Fall 2018).
-- Seminar-style courses on advanced topics in stochastic analysis, stochastic partial differential equations, and differential geometry (September 2017–June 2019).
+  <div>• <a href="https://www.jmlr.org/" target="_blank">Journal of Machine Learning Research (JMLR)</a></div>
 
-## Selected research visits and presentations
+  <div>• <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-applied-dynamical-systems/" target="_blank">SIAM Journal on Applied Dynamical Systems</a></div>
 
-- Research visit to Prof. Zhou Xiang, Hong Kong University of Science and Technology (February 1–8, 2026).
-- AAAI 2026 Workshop, Singapore (January 20–27, 2026).
-- Research visit to Prof. David Martín de Diego, ICMAT, Spain (June 28–July 8, 2025).
-- Machine Learning and Dynamical Systems Seminar Series, online (June 5, 2025).
-- Joint Doctoral Training Program (China Scholarship Council), University of Illinois Urbana–Champaign (September 2019–September 2020).
-- Research visit to Illinois Institute of Technology, Chicago (August–September 2018).
+  <div>• <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank">Neural Networks</a></div>
 
-See [Talks](/talks/) for meetings and presentations listed in my CV.
+  <div>• <a href="https://www.sciencedirect.com/journal/applied-mathematics-letters" target="_blank">Applied Mathematics Letters</a></div>
 
-## Professional service
+  <div>• <a href="https://pubs.aip.org/cha" target="_blank">Chaos</a></div>
 
-Reviewer for *SIAM Journal on Applied Dynamical Systems*, *Neural Networks*, *Applied Mathematics Letters*, *Chaos*, and *Chaos, Solitons & Fractals*.
+  <div>• <a href="https://www.sciencedirect.com/journal/chaos-solitons-and-fractals" target="_blank">Chaos, Solitons & Fractals</a></div>
+
+</div>
