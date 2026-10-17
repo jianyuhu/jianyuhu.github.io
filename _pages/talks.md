@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Talks"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
