@@ -38,3 +38,15 @@ Reviewer for the following journals:
   <div>• <a href="https://www.sciencedirect.com/journal/chaos-solitons-and-fractals" target="_blank">Chaos, Solitons & Fractals</a></div>
 
 </div>
+
+## Blogs I Follow
+
+**Mathematics & Machine Learning:**  
+[Terence Tao](https://terrytao.wordpress.com/) ·
+[Francis Bach](https://francisbach.com/) ·
+[Boaz Barak](https://windowsontheory.org/)
+
+**Quantum Computing & Physics:**  
+[Scott Aaronson](https://scottaaronson.blog/) ·
+[Gil Kalai](https://gilkalai.wordpress.com/) ·
+[Quantum Frontiers](https://quantumfrontiers.com/)
