@@ -74,11 +74,11 @@
 .topics-sketch .topic-content ul { margin: .8rem 0 0 1.2rem; }
 .topics-sketch .topic-content li { margin-bottom: .6rem; }
 
-/* Expand content to the right while preserving the left layout */
+/* Wider publications content */
 @media (min-width: 1024px) {
-  .page, .archive {
-    width: calc(100% - 200px);
-    max-width: none;
-    padding-right: 0;
+  #main {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
