@@ -62,9 +62,7 @@ My research focuses on the mathematical foundations of structure-preserving kern
 </details>
 </section>
 
-<h2>Professional Service</h2>
-
-<p>Referee for the following journals:</p>
+<h1>Professional Service</h1>
 
 <div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0.6rem 1.5rem; margin-bottom:1.5rem;">
   <div><a href="https://www.jmlr.org/">Journal of Machine Learning Research</a></div>
