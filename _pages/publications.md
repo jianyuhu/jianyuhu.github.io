@@ -9,20 +9,20 @@ For an up-to-date citation record, see [Google Scholar](https://scholar.google.c
 
 # Preprints
 
-1. J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. Learning Hamiltonians from trajectory data with kernel methods. [ArXiv](https://arxiv.org/abs/2610.17835)
+1. J. Hu, David Martín de Diego, Juan-Pablo Ortega, and Miguel Vaquero. Learning Hamiltonians from trajectory data with kernel methods. [ArXiv](https://arxiv.org/abs/2610.17835) [Code](https://github.com/jianyuhu/Learning-Hamiltonians-from-Trajectory-Data-with-Kernel-Methods)
 
-1. J. Hu and Juan-Pablo Ortega. Kernel learning of PDE solution operators. [ArXiv](https://arxiv.org/abs/2605.09643)
+1. J. Hu and Juan-Pablo Ortega. Kernel learning of PDE solution operators. [ArXiv](https://arxiv.org/abs/2605.09643) [Code](https://github.com/jianyuhu/kernel-operator-pde)
 
-1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel method for the learning of Wasserstein geometric flows. [ArXiv](https://arxiv.org/abs/2511.06655)
+1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A kernel method for the learning of Wasserstein geometric flows. [ArXiv](https://arxiv.org/abs/2511.06655) [Code](https://github.com/jianyuhu/kernel-learning-for-Wasserstein-flows)
 
 1. J. Hu, Qiao Huang, Yuanfei Huang, and Jean-Claude Zambrini. A study of path measures based on second-order Hamilton–Jacobi equations and their applications in stochastic thermodynamics. [ArXiv](https://arxiv.org/abs/2508.02469)
 
 # Journal articles
 
-1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A structure-preserving kernel method for learning Hamiltonian systems. *Mathematics of Computation*, **95**, 1719–1774 (2026). [ArXiv](https://arxiv.org/abs/2403.10070) [DOI](https://doi.org/10.1090/mcom/4106) 
+1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A structure-preserving kernel method for learning Hamiltonian systems. *Mathematics of Computation*, **95**, 1719–1774 (2026). [ArXiv](https://arxiv.org/abs/2403.10070) [DOI](https://doi.org/10.1090/mcom/4106) [Code](https://github.com/Learning-of-Dynamic-Processes/LearningHamiltonianEuclideanSpace)
 
 1. J. Hu, Juan-Pablo Ortega, and Daiying Yin. A global structure-preserving kernel method for the learning of Poisson systems. *Journal of Nonlinear Science*, **35**(4):79 (2025). [ArXiv](https://arxiv.org/abs/2504.13396)
- [DOI](https://doi.org/10.1007/s00332-025-10176-1)
+ [DOI](https://doi.org/10.1007/s00332-025-10176-1) [Code](https://github.com/Learning-of-Dynamic-Processes/Learning-Poisson-Systems-on-Manifolds)
 
 1. Xiaoli Chen, Jinqiao Duan, J. Hu, and Dongfang Li. Data-driven method to learn the most probable transition pathway and stochastic differential equations. *Physica D*, **443**:133559 (2023). [ArXiv](https://arxiv.org/abs/2111.08944) [DOI](https://doi.org/10.1016/j.physd.2022.133559) 
 
