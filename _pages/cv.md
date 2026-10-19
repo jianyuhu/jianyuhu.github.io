@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 
-- **Research Fellow**, Division of Mathematical Sciences, Nanyang Technological University, Singapore (December 2022–present, as stated in CV). Advisor: Prof. Juan-Pablo Ortega.
-
-# Education
-
-- **Ph.D.**, Statistics, Huazhong University of Science and Technology, Wuhan, China (September 2017–June 2022). Advisor: Prof. Jinqiao Duan.
-- **B.S.**, Mathematics and Applied Mathematics, Huazhong University of Science and Technology, Wuhan, China (September 2012–June 2016).
-
 
 # Professional Service
 
