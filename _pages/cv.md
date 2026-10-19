@@ -1,13 +1,10 @@
 ---
 layout: single
 title: ""
-permalink: /cv/
+permalink: /more/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-# Research experience
 
 - **Research Fellow**, Division of Mathematical Sciences, Nanyang Technological University, Singapore (December 2022–present, as stated in CV). Advisor: Prof. Juan-Pablo Ortega.
 
