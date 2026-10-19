@@ -23,6 +23,8 @@ Reviewer for the following journals:
 
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 2rem; row-gap: 0.7rem; margin: 1rem 0 1.5rem;">
 
+   <div>• <a href="https://www.ams.org/journals/mcom/" target="_blank"> Mathematics of Computation </a></div>
+
   <div>• <a href="https://www.jmlr.org/" target="_blank">Journal of Machine Learning Research </a></div>
 
   <div>• <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-applied-dynamical-systems/" target="_blank">SIAM Journal on Applied Dynamical Systems</a></div>
